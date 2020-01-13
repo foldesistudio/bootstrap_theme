@@ -1,5 +1,5 @@
 # Bootstrap Theme
-This is a fronted sample theme with Bootstrap v4.4.1 framework
+This is a frontend sample theme with Bootstrap v4.4.1 framework
 
  # Author
  Földesi, Mihály
