@@ -5,7 +5,7 @@ This is a frontend sample theme with Bootstrap v4.4.1 framework
  Földesi, Mihály
 
 # Used Libraries  
- * Animate On Scroll Library (URL: https://michalsnik.github.io/aos/)
+ * Animate On Scroll Library v2.3.1 (URL: https://michalsnik.github.io/aos/)
  * Bootstrap v4.4.1 (URL: https://getbootstrap.com/)
  * Font Awesome v4.7.0 (URL: https://fontawesome.io/)
  * instant.page v3.0.0 (URL: https://instant.page)
